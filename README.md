@@ -1,81 +1,78 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h1 align="center">⚡ ROHIT ⚡</h1>
 <h3 align="center">Future Software Engineer | Building Scalable & Impactful Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-13-06&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-13-06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-13-06" alt="rohit-13-06" /></a> </p>
-
-- 🌱 I’m currently learning **DSA, OOPs, Django and Flask**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rohit-13-06](https://github.com/Rohit-13-06)
-
-- 📫 How to reach me **yrohitprasad45@gmail.com**
-
-- 📄 Know about my experiences [https://coffee-sharai-98.tiiny.site](https://coffee-sharai-98.tiiny.site)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohit-yerrarapu-6534ab290/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
-</a>
-<a href="https://github.com/Rohit-13-06" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Applications;DSA+%7C+Django+%7C+Flask;Passionate+About+Tech+%26+Innovation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-</a> 
-</p>
+---
 
-<h3 align="left">Support:</h3>
-<p>
-<a href="https://www.buymeacoffee.com/Rohit-13-06"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rohit-13-06" />
-</a>
-<a href="https://ko-fi.com/Rohit-13-06"> 
-<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Rohit-13-06" />
-</a>
-</p>
-<br><br>
+## 🚀 ABOUT ME
+
+```python
+class Rohit:
+    def __init__(self):
+        self.role = "Future Software Engineer"
+        self.skills = ["Python", "Java", "DSA", "Web Development"]
+        self.learning = ["Django", "Flask", "OOPs"]
+        self.goal = "High paying tech job by 2027"
+
+    def motto(self):
+        return "Code with purpose, build with impact"
+🌐 CONNECT WITH ME
+<p align="center"> <a href="https://www.linkedin.com/in/rohit-yerrarapu-6534ab290/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/Rohit-13-06"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
+🛠️ TECH STACK
+💻 Programming & Markup Languages
+<p> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/> </p>
+🗄️ Databases
+<p> <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white"/> </p>
+🌐 Web Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white"/> </p>
+⚙️ Other Competencies
+
+🎨 Responsive UI/UX Design
+
+🔗 API Integration
+
+🐞 Debugging & Troubleshooting
+
+⚡ Performance Optimization
+
+🚧 PROJECTS
+🔹 Digital Evidence Management System
+
+Secure crime evidence storage system
+
+Built with Java + Database integration
+
+🔹 Local Issue Reporting Platform
+
+Report and track local issues
+
+Built with Django + HTML/CSS/JS
+
+🔹 Mental Health Chatbot
+
+Provides instant mental support
+
+Includes mood detection quiz
+
+📊 GITHUB STATS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rohit-13-06&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-13-06&theme=radical" /> </p>
+📈 MOST USED LANGUAGES
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-13-06&layout=compact&theme=radical" /> </p>
+📚 CURRENTLY
+
+🔭 Building real-world projects
+
+🌱 Learning advanced DSA
+
+⚡ Exploring backend development
+
+🎯 Goal: Crack top tech companies
+
+💡 QUOTE
+
+"Code is poetry written in logic"
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohit-13-06&label=Profile%20views&color=blue&style=flat" /> </p> ```
