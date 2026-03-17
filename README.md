@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:7209b7&height=200&section=header&text=ROHIT&fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20•%20BUILDER%20•%20LEARNER&descAlignY=55&descSize=20"/>
+</p>
 <h1 align="center">⚡ ROHIT ⚡</h1>
 <h3 align="center">Future Software Engineer | Building Scalable & Impactful Applications</h3>
 
