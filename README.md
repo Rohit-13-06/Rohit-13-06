@@ -179,10 +179,26 @@ class Rohit:
 
 ## 📚 CURRENTLY
 
+<table>
+<tr>
+
+<td width="55%">
+
 - 🔭 Building real-world projects  
 - 🌱 Learning advanced DSA  
 - ⚡ Exploring backend development  
 - 🎯 Goal: Crack top tech companies  
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
