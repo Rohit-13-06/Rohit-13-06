@@ -78,18 +78,24 @@ class Rohit:
 
 ## 🚧 PROJECTS
 
-### 🔹 Digital Evidence Management System
-- Secure crime evidence storage system  
-- Built with Java + Database integration  
+### 🔹 EduPredict
+- AI-based system to predict student performance  
+- Uses data analysis for smarter academic insights  
+- Focused on improving learning outcomes  
 
-### 🔹 Local Issue Reporting Platform
-- Report and track local issues  
-- Built with Django + HTML/CSS/JS  
+---
 
-### 🔹 Mental Health Chatbot
-- Provides instant mental support  
-- Includes mood detection quiz  
+### 🔹 VIRASAM (Cultural Heritage Platform)
+- Streamlit-based platform to explore and preserve cultural heritage  
+- Features multilingual support (Telugu toggle)  
+- Includes search, contribution, and community modules  
 
+---
+
+### 🔹 Native Language Identification (HuBERT)
+- Identifies native language of Indian English speakers  
+- Built using NLP and HuBERT model  
+- Part of internship project (IIIT Hyderabad)  
 ---
 
 ## 📊 GITHUB STATS
