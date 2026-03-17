@@ -8,6 +8,10 @@
 
 ## 🚀 ABOUT ME
 
+<table>
+<tr>
+<td width="55%">
+
 <pre>
 class Rohit:
     def __init__(self):
@@ -19,6 +23,16 @@ class Rohit:
     def motto(self):
         return "Code with purpose, build with impact"
 </pre>
+
+</td>
+
+<td width="45%">
+<img src="https://gifdb.com/images/high/programming-coding-kira-lena-urzendowsky-yl7f6xjkodtr9eul.gif" width="100%"/>
+</td>
+
+</tr>
+</table>
+
 
 ---
 
